@@ -10,8 +10,6 @@
 
 ### 21/02/2023
 
-> #### Arrays
->
-> -   [majority element](https://leetcode.com/problems/majority-element/) (easy)
+> -   [majority element](https://leetcode.com/problems/majority-element/) (easy) (array)
 
 ---
