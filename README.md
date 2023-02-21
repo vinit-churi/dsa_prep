@@ -8,10 +8,10 @@
 > [striver](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/),
 > [kunal kushwala](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java),
 
-### Arrays
+### 21/02/2023
 
-> #### 21/02/2023
-
--   [majority element](https://leetcode.com/problems/majority-element/) (easy)
+> #### Arrays
+>
+> -   [majority element](https://leetcode.com/problems/majority-element/) (easy)
 
 ---
