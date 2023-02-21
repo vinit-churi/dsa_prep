@@ -11,5 +11,6 @@
 ### 21/02/2023
 
 > -   [majority element](https://leetcode.com/problems/majority-element/) (easy) (array)
+> -   [Two Sum](https://leetcode.com/problems/two-sum/discussion/) (easy) (array)
 
 ---
